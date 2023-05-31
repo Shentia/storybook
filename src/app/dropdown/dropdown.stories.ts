@@ -2,7 +2,7 @@ import { Meta, Story } from '@storybook/angular';
 import { DropdownComponent } from './dropdown.component';
 
 export default {
-  title: 'Example/Dropdown',
+  title: 'Components/Dropdown',
   component: DropdownComponent,
   parameters: {
     docs: {
